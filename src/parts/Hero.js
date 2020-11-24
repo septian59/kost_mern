@@ -26,7 +26,7 @@ export default function Hero(props) {
                 <div className="col-auto pr-8" style={{ width: 560 }}>
                     <h1 className="font-weight-bold line-height-1 mb-3">
                         Situs cari kost, <br />
-                        termudah dan terpercaya
+                        mudah dan terpercaya
                     </h1>
                     <p className="mb-4 font-weight-light text-gray-500 w-75" style={{lineHeight:"170%"}}>
                         Kami menyediakan segala kebutuhan tentang

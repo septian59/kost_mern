@@ -34,19 +34,19 @@
       "_id": "asd1293uasdads1",
       "qty": "1",
       "name": "living room",
-      "imageUrl": "/images/icon-livingroom.svg"
+      "imageUrl": "/images/icon-ruangtamu.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "2",
       "name": "bath room",
-      "imageUrl": "/images/icon-bathroom.svg"
+      "imageUrl": "/images/icon-kamarmandi.svg"
     },
     {
       "_id": "asd1293uasdads1",
       "qty": "1",
-      "name": "dining room",
-      "imageUrl": "/images/icon-diningroom.svg"
+      "name": "kipas angin",
+      "imageUrl": "/images/icon-kipas.svg"
     },
     {
       "_id": "asd1293uasdads1",
@@ -56,9 +56,9 @@
     },
     {
       "_id": "asd1293uasdads1",
-      "qty": "2",
-      "name": "units ready",
-      "imageUrl": "/images/icon-airconditioner.svg"
+      "qty": "1",
+      "name": "AC",
+      "imageUrl": "/images/icon-ac.svg"
     },
     {
       "_id": "asd1293uasdads1",
@@ -102,7 +102,7 @@
   "categories": [
     {
       "_id": "asd1293uasdads1",
-      "name": "House with beauty backyard",
+      "name": "Gambar lainnya",
       "items": [
         {
           "_id": "asd1293uasdads1",

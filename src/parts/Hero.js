@@ -2,9 +2,7 @@ import React from 'react'
 import Fade from 'react-reveal/Fade';
 
 import ImageHero from 'assets/images/banner-hero.png'
-import IconAgen from 'assets/images/icons/icon-agen.svg'
-import IconUser from 'assets/images/icons/icon-user.svg'
-import IconKost from 'assets/images/icons/icon-kost.svg'
+
 
 import Button from 'elements/Button'
 
@@ -43,7 +41,7 @@ export default function Hero(props) {
                             <img
                                 width="36"
                                 height="36"
-                                src={IconUser}
+                                src="/assets/images/icon-user.svg"
                                 alt={` ${props.data.user}User`} />
                             <h6 className="mt-3">
                                 {formatNumber(props.data.user)}{" "}
@@ -54,7 +52,7 @@ export default function Hero(props) {
                             <img
                                 width="36"
                                 height="36"
-                                src={IconKost}
+                                src="/assets/images/icon-kost.svg"
                                 alt={` ${props.data.kost}Kost`} />
                             <h6 className="mt-3">
                                 {formatNumber(props.data.kost)}{" "}
@@ -65,7 +63,7 @@ export default function Hero(props) {
                             <img
                                 width="36"
                                 height="36"
-                                src={IconAgen}
+                                src="/assets/images/icon-agen.svg"
                                 alt={` ${props.data.agen}Agen`} />
                             <h6 className="mt-3">
                                 {formatNumber(props.data.agen)}{" "}

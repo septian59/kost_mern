@@ -36,7 +36,7 @@ export default function Header(props) {
                     Home
                   </Button>
                 </li>
-                <li className={`nav-item${getNavLinkClass("/browse-by")}`}>
+                {/* <li className={`nav-item${getNavLinkClass("/browse-by")}`}>
                   <Button className="nav-link" type="link" href="/browse-by">
                     Kategori
                   </Button>
@@ -50,7 +50,7 @@ export default function Header(props) {
                   <Button className="nav-link" type="link" href="/agents">
                     Agents
                   </Button>
-                </li>
+                </li> */}
               </ul>
             </div>
           </nav>

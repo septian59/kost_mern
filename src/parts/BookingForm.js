@@ -95,7 +95,7 @@ class BookingForm extends Component {
         <label htmlFor="duration">Berapa lama anda menetap ?</label>
         <InputNumber
           max={30}
-          suffix={" Bulan"}
+          suffix={` ${itemDetails.unit}`}
           onChange={this.updateData}
           name="duration"
           value={data.duration}
